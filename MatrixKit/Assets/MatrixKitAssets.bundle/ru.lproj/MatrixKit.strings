@@ -134,7 +134,7 @@
 "notice_room_join" = "%@ вошел(ла)";
 "notice_room_leave" = "%@ вышел(ла)";
 "notice_room_reject" = "%@ отклонил(а) приглашение";
-"notice_room_kick" = "%@ выкинул(а) %@";
+"notice_room_kick" = "%@ удалил(а) %@";
 "notice_room_unban" = "%@ разблокировал(а) %@";
 "notice_room_ban" = "%@ заблокировал(а) %@";
 "notice_room_withdraw" = "%@ отозвал(а) приглашение %@";
